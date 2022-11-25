@@ -1,5 +1,6 @@
 ## Hi 👋 jhy354 here!
-* 📚 A 11th Grade Student in Hangzhou No.2 High School of Zhejiang Province
+* 📚 A 11th Grade Student 
+* 📚 Hangzhou No.2 High School
 * ✒️ Love coding & playing CSGO
 * ❤️ Fav. Languages: Python / C++
 * 📫 Email: jianghy_hz@foxmail.com
