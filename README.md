@@ -1,3 +1,3 @@
 ## Hi 👋 jhy354 here!
-* 📚 A college student from Nankai University
+* 📚 Major in Chemistry
 * 📫 Email: jianghyhz@gmail.com
