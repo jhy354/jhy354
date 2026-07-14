@@ -1,3 +1,6 @@
-## Hi 👋 jhy354 here!
-* 📚 Major in Chemistry
-* 📫 Email: jianghyhz@gmail.com
+## Hi 👋 I'm jhy354
+* 🏫 Undergraduate, Nankai University
+* 🧪 Major in Chemistry
+* ⚡ Research Focus: Electrochemical CO₂ Reduction (eCO₂RR)
+* 🤖 Interested in AI for chemistry
+* 📫 Contact: jianghyhz@mail.nankai.edu.cn
